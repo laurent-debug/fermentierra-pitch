@@ -1,4 +1,8 @@
 :root {
+  --color-background: #ffffff;
+  --color-teal-500-rgb: 20,115,108; /* teal #14736C en RGB */
+}
+:root {
   /* Primitive Color Tokens */
   --color-white: rgba(255, 255, 255, 1);
   --color-black: rgba(0, 0, 0, 1);
